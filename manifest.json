@@ -1,0 +1,21 @@
+{
+    "name": "TO-DO Extension",
+    "version": "0.01",
+    "author": "11_kamesh",
+    "description": "A simple todo web extension, no need to be online it will use use you localstorage ! ",
+    "browser_action": {
+        "default_icon": {
+            "16" : "images/p.png",
+            "48": "images/p.png",
+            "128": "images/4697260.png"
+        },
+        "default_title": "todo",
+        "default_popup": "popup.html"
+    },"icons": {
+        "16": "images/p.png",
+        "32": "images/p.png",
+        "48": "images/p.png",
+        "128":"images/p.png"
+      },
+    "manifest_version": 2
+}
